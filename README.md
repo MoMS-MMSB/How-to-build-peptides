@@ -15,3 +15,6 @@ Then, we can get creative and add any weird atom you want to any peptide:
 * Example 4: Add a gold atom to a peptide
 * Example 5: Add CAPs to a peptide
 
+The tutorial is constructed as a Jupyter notebook. You can see it [here](https://github.com/MoMS-MMSB/How-to-build-peptides/blob/main/peptide_construction.ipynb).
+
+

@@ -1,10 +1,11 @@
+# Building peptides with defined primary and secondary structure 
 
 <p align="center">
   <img src="https://github.com/MoMS-MMSB/How-to-build-peptides/blob/main/peptide.png" alt="Project Logo" width="40%"/>
 </p>
 
 
-The goal of this tutorial is to make a peptide with any amino acid sequence and shape you like, like for example the one in the picture above. We'll show you how to do it by building a couple of different peptides:
+The goal of this tutorial is to show how to build peptides with any amino acid sequence and a well defined secondary structure, like for example the one in the picture above, using simple python commands. We'll show you how to do it by building a couple of different peptides:
 
 * Example 1: A simple alpha helix made of 10 alanines.
 * Example 2: A simple beta strand made of 10 alanines.

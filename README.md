@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/MoMS-MMSB/How-to-build-peptides/blob/main/peptide.png)
 
 The goal of this tutorial is to make a peptide with any amino acid sequence and shape you like. We'll show you how to do it by building a couple of different peptides:
 

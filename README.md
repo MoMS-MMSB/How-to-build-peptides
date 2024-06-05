@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="[https://github.com/username/repository-name/blob/main/logo.png](https://github.com/MoMS-MMSB/How-to-build-peptides/blob/main/peptide.png)" alt="Project Logo" width="60%"/>
+  <img src="https://github.com/MoMS-MMSB/How-to-build-peptides/blob/main/peptide.png" alt="Project Logo" width="60%"/>
 </p>
+
 
 The goal of this tutorial is to make a peptide with any amino acid sequence and shape you like. Like the one in the picture above, for example. We'll show you how to do it by building a couple of different peptides:
 
